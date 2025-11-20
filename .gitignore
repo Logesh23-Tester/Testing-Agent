@@ -18,6 +18,9 @@ reports/
 *.html
 *.log
 
+# Documentation
+linkedin_post.md
+
 # IDE
 .vscode/
 .idea/
