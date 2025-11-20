@@ -1,0 +1,9 @@
+crewai
+crewai[tools]
+langchain_google_genai
+langchain_openai
+selenium
+webdriver_manager
+python-dotenv
+pytest
+pytest-html
